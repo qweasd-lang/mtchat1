@@ -1,5 +1,5 @@
 {
-  "version": "3.4.3",
+  "version": "3.4.4",
   "url": "https://cdn.jsdelivr.net/gh/qweasd-lang/mtchat1@main/app.apk",
-  "notes": "v3.4.3 测试版：验证检测-下载-安装链路"
+  "notes": "v3.4.4 修复检测按钮"
 }
