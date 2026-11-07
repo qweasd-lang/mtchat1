@@ -1,5 +1,5 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "url": "https://cdn.jsdelivr.net/gh/qweasd-lang/mtchat1@main/app.apk",
-  "notes": "修复翻译400；模型列表GLM-4.5~5.3-Flashx；检测更新"
+  "notes": "v3.4.2 测试版：验证检测-下载-安装链路"
 }
